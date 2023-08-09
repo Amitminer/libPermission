@@ -1,0 +1,8 @@
+---
+name: libPermission
+author: AmitxD
+version: 0.0.1
+main: AmitxD\libPermission\libPermission
+api: 5.4.0
+src-namespace-prefix: AmitxD\libPermission
+...
